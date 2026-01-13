@@ -6,3 +6,4 @@
 - Import data into SQL
 - Data cleaning
 
+ Validated 2026.
